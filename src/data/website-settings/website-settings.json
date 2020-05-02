@@ -1,0 +1,21 @@
+{
+  "sitename": "gatsby-minimal-styled-components",
+  "site-url": "localhost:8000",
+  "language": "en",
+  "show-full-title": true,
+  "title-separator": "-",
+  "menu-links": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "Second Page",
+      "link": "/second-page"
+    },
+    {
+      "name": "About",
+      "link": "/about"
+    }
+  ]
+}
