@@ -37,7 +37,7 @@ You can configure many aspects of the website by editing the corresponding JSON 
 
 See `./src/data/website-settings/website-settings.json`
 
-- **sitename**: also used as default SEO Title. Remember to also set in inside `./gatsby-config.js`.
+- **sitename**: also used as default SEO Title. Remember to also set it inside `./gatsby-config.js`.
 - **site-url**: needed for static resources.
 - **show-full-title**: choose to show page name + separator + sitename as the page title.
 - **title-seperator**: symbol used as separator.
